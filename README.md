@@ -1,7 +1,7 @@
 Shallow-Thought
 ===============
 
-Program reads a question and answers off the screen and gives the most likely answer. It may be possible use it to read the screen of pub quiz machines and get the correct answer. Although unlikely to be very profitable, it may provide some entertainment and the money for a drink.
+Program reads a question and answers off the screen and gives the most likely answer. It may be possible use it to read the screen of pub quiz machines and get the correct answer. Although unlikely to be very profitable, it may provide some entertainment!
 
 ShallowThought uses opensource OCR to read a question from a given square on the screen and then reads four answers from other given coordinates.
 
